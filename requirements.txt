@@ -1,0 +1,11 @@
+halo
+python-nmap
+scapy
+colorama
+argparse
+netifaces
+random2
+subprocess.run
+jsons
+tabulate
+TIME-python
